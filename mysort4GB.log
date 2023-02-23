@@ -1,0 +1,10 @@
+External Sort
+Done, total Time: 53 Seconds
+Total Data Read: 7 GB
+Total Data Write: 7 GB
+
+Valsort Check
+Records: 42949672
+Checksum: 167t97de0qacy34
+Duplicate keys: 0
+SUCCESS - all records are in order

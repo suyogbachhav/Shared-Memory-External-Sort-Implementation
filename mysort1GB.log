@@ -1,0 +1,10 @@
+In Memory Sort
+Done, total Time:24 Seconds
+Total Data Read: 1 GB
+Total Data Write: 1 GB
+
+Valsort Check
+Records: 10737418
+Checksum: 51e83fa4f67gi4
+Duplicate keys: 0
+SUCCESS - all records are in order
